@@ -13,7 +13,7 @@ Task:
 Continuing within the same pairs that you were in for creating your updated TodoMVC test plan, find the list of tests which you prepared in that plan.
 For each one of those tests, consider for which of the following it would be a candidate:
 
-Automate Now
-Automate Later
+Automate Now,
+Automate Later,
 Don't Automate
 
