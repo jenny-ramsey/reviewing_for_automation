@@ -1,12 +1,12 @@
-Makers Challenge for Automating Checking module - May 2025
+**Makers Challenge for Automating Checking module - May 2025**
 
-Challenge Part 1 - Hypothetical Tests:
+**Challenge Part 1 - Hypothetical Tests:**
 
 Task:
 
 For each of the hypothetical tests, decide whether they are suitable candidates for automation, rather than running the tests manually and having a human checking the outcomes and behaviours.
 
-Challenge Part 2 - Your Tests:
+**Challenge Part 2 - Your Tests:**
 
 Task:
 
